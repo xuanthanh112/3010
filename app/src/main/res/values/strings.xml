@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Your App Name</string>
+    <string name="back">Back</string>
+    <string name="search_hint">Search by name or ID</string>
+    <string name="even">Even</string>
+    <string name="odd">Odd</string>
+    <string name="square">Square</string>
+    <string name="show">Show</string>
+</resources>
